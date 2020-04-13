@@ -1,7 +1,7 @@
 # cats_and_dogs
-cats and dogs classification
+# Cats and Dogs classification
 
-Deep learning for cats and dogs images classification
+Deep learning for ***cats/dogs*** images classification
 
 Relevant packeges: open-cv2-python, PILLOW, numpy
 
@@ -10,7 +10,6 @@ link: https://www.kaggle.com/chetankv/dogs-cats-images
 
 * simple deep learning algorithm
 * gradient descent algorithm
-* feature engineering
 * feature vectorization
 
 
