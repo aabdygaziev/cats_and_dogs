@@ -14,3 +14,8 @@ link: https://www.kaggle.com/chetankv/dogs-cats-images
 
 
 * In this repo, I am goint to use different activation functions (sigmoid, ReLU, tanh, Leaky ReLU) and compare their performance.
+
+* sigmoid function - takes values between (0,1); mostly used in output node for binary classification task 
+* tanh function - takes values between (-1,1); mostly outperforms sigmoid function.
+
+sigmoid and tanh functions are very sensitive when gradient approaches to the center point (sigmoid 0,5), (tanh at 0).
