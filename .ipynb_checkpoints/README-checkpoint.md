@@ -8,7 +8,7 @@ Relevant packeges: open-cv2-python, PILLOW, numpy
 Data set is from kaggle.com
 link: https://www.kaggle.com/chetankv/dogs-cats-images
 
-**Check out my blog:
+**Check out my blog:https://medium.com/@aabdygaziev/activation-functions-in-deep-learning-322859edfb05
 
 * simple deep learning algorithm
 * gradient descent algorithm
